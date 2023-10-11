@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Kristian and i am a aspiring frontend dev.
+- 👋 Hi, my name is Kristian and i am an aspiring frontend developer.
 - 💾 Background: Graphic design and UI/UX
 - 🚀 I am currently focusing on React, Typescript, UI/UX
 - 🟢 Situation: Currently looking for an internship in frontend and UI/UX
