@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Kristian and i am an aspiring frontend developer and UI/UX Designer.
-- 💾 Background: Graphic design and UI/UX
-- 🚀 I am currently focusing on React, Typescript, UI/UX
-- 🟢 Situation: Currently looking for an internship in frontend and UI/UX
+- 👋 Hi, my name is Kristian and i am an aspiring UI/UX Designer, graphic designer and frontend designer.
+- 💾 Education: Graphic design
+- 🚀 I am currently focusing on evolving my skills in UI/UX and React on the frontend.
+- 🟢 Situation: Currently looking for an internship in UI/UX design, graphic design and frontend design.
 - 🤓 Fun facts: I also like doing 3D design (mostly low-poly) and i have produced music for about 20 years.
 - 💚 Portfolio : https://kristian-kodehode.github.io/portfolio/
 
