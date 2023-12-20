@@ -55,7 +55,7 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - Three.js (exploring)
 - Multiple headless CMS
 
-<hr style="border: 0.2px solid #ddd;">
+
 
 ## Let's Connect
 
