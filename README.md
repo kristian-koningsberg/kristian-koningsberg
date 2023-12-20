@@ -1,10 +1,5 @@
 ### Latest News 📰
 **Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
-```css
-background-color: #4CAF50;
-color: white;
-padding: 10px;
-border-radius: 5px; ```
 
 # Hi there, I'm Kristian! 👋
 
