@@ -1,3 +1,6 @@
+# Latest News 📰
+**Currently:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
+
 # Hi there, I'm Kristian! 👋
 
 **I am a creative explorer weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
