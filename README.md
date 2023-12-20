@@ -63,8 +63,8 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - <!-- Simulated Coding Window -->
 <pre>
 <code>
-// Email
-"kristian007.kodehode@gmail.com";
+
+kristian007.kodehode@gmail.com
 </code>
 </pre>
 
