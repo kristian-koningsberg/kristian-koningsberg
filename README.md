@@ -54,6 +54,8 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - Next.js
 - Three.js (exploring)
 - Multiple headless CMS
+- Figma
+- Blender
 
 
 
