@@ -61,9 +61,9 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 
 - Portfolio: https://kristian-kodehode.github.io/portfolio/
 
-If you have any questions or collaboration ideas, let's connect!
+If you have any questions, let's connect!
 
-Happy coding on V2! ✨
+Happy coding! ✨
 
 
 ![portfolioPromo1](https://github.com/Kristian-kodehode/Kristian-kodehode/assets/125975980/6f856ad7-1cbc-4ac5-9652-452ccd6f62f9)
