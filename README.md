@@ -1,12 +1,12 @@
 # Hi there, I'm Kristian! 👋
 
-**Hey there, I'm Kristian – a creative explorer weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
+**I am a creative explorer weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
 
 <hr style="border: 0.5px solid #ddd;">
 
 ## Versatility in Action
 
-From graphic design and UI experiences to 3D worlds and frontend development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
+From graphic design and UI experiences to 3D worlds and frontend / headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
 
 <hr style="border: 0.5px solid #ddd;">
 
