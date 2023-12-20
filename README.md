@@ -60,7 +60,7 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 ## Let's Connect
 
 - Portfolio: https://kristian-kodehode.github.io/portfolio/
-Email:
+- Email:
 <pre>
 <code>
 kristian007.kodehode@gmail.com
