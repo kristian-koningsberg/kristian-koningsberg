@@ -1,7 +1,5 @@
 ### Latest News 📰
-<div style="background-color: red; color: white; padding: 10px; border-radius: 5px;">
-    <strong>Just in:</strong> Currently interning at Kodeverket where we are building exciting webpages and apps.
-</div>
+**Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
 
 # Hi there, I'm Kristian! 👋
 
