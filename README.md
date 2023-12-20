@@ -60,6 +60,17 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 ## Let's Connect
 
 - Portfolio: https://kristian-kodehode.github.io/portfolio/
+- <!-- Simulated Coding Window -->
+<pre>
+<code>
+// Contact Information
+const email = "kristian007.kodehode@gmail.com";
+
+// Display Email
+console.log(`Feel free to reach out: ${email}`);
+</code>
+</pre>
+
 
 If you have any questions, let's connect!
 
