@@ -46,8 +46,9 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - Sass (Scss)
 - Tailwind
 - JavaScript
-- React
-- TypeScript
+- Typescript
+- React.js
+- React Native
 - Next.js
 - Three.js (exploring)
 - Multiple headless CMS
