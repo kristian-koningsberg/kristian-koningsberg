@@ -1,5 +1,5 @@
 # Latest News 📰
-**Currently:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
+**Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
 
 # Hi there, I'm Kristian! 👋
 
