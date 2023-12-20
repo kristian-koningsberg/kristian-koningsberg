@@ -1,4 +1,4 @@
-# Latest News 📰
+### Latest News 📰
 **Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
 
 # Hi there, I'm Kristian! 👋
