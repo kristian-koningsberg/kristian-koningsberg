@@ -12,7 +12,7 @@ From graphic design and UI experiences to 3D worlds and frontend / headless full
 
 ## User-Centric Stories
 
-Every project is a story, a narrative that goes beyond visuals and functionality. I'm not just solving problems; I'm crafting experiences that resonate with users emotionally, leaving a lasting imprint.
+Every project is a story, a narrative that goes beyond visuals and functionality. I'm not just solving problems; I'm hoping to craft experiences that resonate with users emotionally.
 
 
 
@@ -28,15 +28,9 @@ Approachability is at the core of my style. It's not just about designs and code
 
 
 
-## Thoughtful Storytelling
-
-Beyond the pixels and lines of code, each project is a narrative. It's about sharing the journey, providing insights, and creating a community around the work.
-
-
-
 ## Why it Matters
 
-I'm not just a creator; I'm a storyteller, crafting digital journeys that captivate, solve problems, and evoke emotions. My work is a testament to the belief that versatility, adaptability, and friendliness can redefine the digital landscape.
+I'm not just a creator; I'm a storyteller, crafting digital journeys that captivate, solve problems, and evoke emotions. My belief is that versatility, adaptability, and friendliness can redefine the digital landscape.
 
 
 
