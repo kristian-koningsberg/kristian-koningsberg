@@ -9,7 +9,7 @@
 
 ## Versatility in Action
 
-From graphic design and UI experiences to 3D worlds and frontend / headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
+From graphic design and UI experiences to 3D design, UX and headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
 
 
 
