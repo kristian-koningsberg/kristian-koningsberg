@@ -56,6 +56,8 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - Webflow
 - Ableton Live
 - Blender
+- Chat GPT
+- Copilot (GH)
 
 
 
