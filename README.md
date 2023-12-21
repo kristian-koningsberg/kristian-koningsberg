@@ -45,8 +45,10 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - CSS
 - Sass (Scss)
 - Tailwind
+- Styled Components
 - JavaScript
 - Typescript
+- Vite
 - React.js
 - React Native
 - Next.js
