@@ -37,7 +37,7 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 
 
 
-## Languages
+## Languages & Tools
 
 - Norwegian
 - English
@@ -50,17 +50,18 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - React.js
 - React Native
 - Next.js
-- Three.js (exploring)
+- Three.js
 - Multiple headless CMS
 - Figma
 - Webflow
+- Ableton Live
 - Blender
 
 
 
 ## Let's Connect
 
-- Portfolio: [Click to view my Portfolio](https://kristian-kodehode.github.io/portfolio/){:target="_blank"}
+- Portfolio: [Click to view my Portfolio](https://kristian-kodehode.github.io/portfolio/)
 - Email:
 <pre>
 <code>
