@@ -3,13 +3,13 @@
 
 # Hi, my name is Kristian Køningsberg 👋
 
-**I am a creative explorer weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
+**I am a creative developer, designer and creator weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
 
 
 
 ## Versatility in Action
 
-From graphic design and UI experiences to 3D design, UX and headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
+From graphic and UI design to 3D experiences, UX and headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
 
 
 
