@@ -2,6 +2,7 @@
 **Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
 
 # Hi, my name is Kristian Køningsberg 👋
+*Frontend | Headless Fullstrack | UX | UI | 3D | Musicproduction | Sound design *
 
 **I am a creative developer, designer and creator weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
 
