@@ -1,4 +1,4 @@
-Frontend | Headless Fullstrack | UX | UI | 3D | Musicproduction | Sound design
+Frontend Developer | Headless Fullstack | Creative Developer | UX | UI | Designer | 3D | Musicproduction | Sound design
 
 ### Latest News 📰
 **Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
