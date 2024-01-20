@@ -1,7 +1,7 @@
 Frontend Developer | Headless Fullstack | Creative Developer | UX | UI | Designer | 3D | Musicproduction | Sound design
 
 ### Latest News 📰
-**Just in:** *Currently interning at Kodeverket where we are building exciting webpages and apps.*
+**Just in:** *Currently interning at Solintegra as a frontend developer and UX designer where we are building a platform using React and Typescript.*
 
 # Hi, my name is Kristian Køningsberg 👋
 
