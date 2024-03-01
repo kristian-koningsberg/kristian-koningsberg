@@ -17,12 +17,6 @@ From graphic and UI design to 3D experiences, UX and headless fullstack developm
 
 
 
-## User-Centric Stories
-
-Every project is a story, a narrative that goes beyond visuals and functionality. I'm not just solving problems; I'm hoping to craft experiences that resonate with users emotionally.
-
-
-
 ## Adaptable Creativity
 
 In a fast-evolving digital landscape, adaptability is key. My versatility isn't just about skills; it's about staying ahead, embracing new challenges, and delivering fresh solutions.
@@ -37,7 +31,7 @@ Approachability is at the core of my style. It's not just about designs and code
 
 ## Why it Matters
 
-I'm not just a creator; I'm a storyteller, crafting digital journeys that captivate and solve problems. My belief is that versatility, adaptability, and friendliness can redefine the digital landscape.
+My belief is that versatility, adaptability, and friendliness can redefine the digital landscape.
 
 
 
@@ -49,6 +43,8 @@ I'm not just a creator; I'm a storyteller, crafting digital journeys that captiv
 - CSS
 - Sass (Scss)
 - Tailwind
+- MUI
+- Shadcn
 - Styled Components
 - JavaScript
 - Typescript
