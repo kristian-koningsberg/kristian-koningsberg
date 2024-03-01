@@ -54,6 +54,8 @@ My belief is that versatility, adaptability, and friendliness can redefine the d
 - Next.js
 - Three.js
 - Multiple headless CMS
+- Github
+- Git
 - Figma
 - Webflow
 - Ableton Live
