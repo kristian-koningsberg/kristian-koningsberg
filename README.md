@@ -1,4 +1,5 @@
 Frontend Developer | Creative Developer | UX | UI | Designer | 3D | Musicproduction | Sound design
+
 Currently working fulltime at Solintegra as a frontend developer and lead UX designer. Building Saas platform ++. 
 Our current Techstack : React | Typescript | MUI | Aws *
 
