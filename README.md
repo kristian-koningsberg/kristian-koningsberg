@@ -1,7 +1,7 @@
 Frontend Developer | Creative Developer | UX | UI | Designer | 3D | Musicproduction | Sound design
 
-Currently working fulltime at Solintegra as a frontend developer and lead UX designer. Building Saas platform ++. 
-Our current Techstack : React | Typescript | MUI | Aws *
+Temporarily interning at Kodeverket as a frontend developer and designer. Building apps and websites. 
+Our current Techstack : Next.js | Sanity | 
 
 ### Latest News 📰
 Looking for a new job as a frontend developer in Stavanger.
