@@ -1,48 +1,48 @@
-Frontend Developer | Creative Developer | UX | UI | Designer | 3D | Musicproduction | Sound design
+Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
 
-Temporarily interning at Kodeverket as a frontend developer and designer. Building apps and websites. 
+Midlertidig frivillig hos Kodeverket som frontend-utvikler og designer. Vi bygger apper og nettsider. 
 
-Our current Techstack : Next.js | Sanity 
+Vår nåværende techstack : Next.js | Sanity | React Native 
 
 ### Latest News 📰
-Looking for a new job as a frontend developer in Stavanger.
-Contact info below.
+Ser for tiden etter ny stilling som frontend-utvikler i Stavanger.
+Kontakt - kristian007.kodehode@gmail.com 
 
-# Hi, my name is Kristian Køningsberg 👋
-
-
-**I am a creative developer, designer and creator weaving together pixels, sounds, and code. In my world, design isn't just about aesthetics; it's a journey that brings together diverse experiences.**
+# Hei, mitt navn er Kristian Køningsberg 👋
 
 
-
-## Versatility in Action
-
-From graphic and UI design to 3D experiences, UX and headless fullstack development, I navigate multiple creative realms. It's not about choosing a lane; it's about blending them all seamlessly.
+**Jeg er en kreativ utvikler, designer og wiz som vever sammen piksler, lyder og kode. I min verden handler design ikke bare om estetikk; det er en reise som forener ulike opplevelser.**
 
 
 
-## Adaptable Creativity
+## Allsidighet
 
-In a fast-evolving digital landscape, adaptability is key. My versatility isn't just about skills; it's about staying ahead, embracing new challenges, and delivering fresh solutions.
-
-
-
-## Friendly Connections
-
-Approachability is at the core of my style. It's not just about designs and code; it's about making users feel welcome and connected. The digital space should be as friendly as a face-to-face conversation.
+Fra frontend, 3D-opplevelser, UX og headless fullstack-utvikling til grafisk og UI/UX-design, navigerer jeg i flere kreative verdener. Det handler ikke om å velge én sti; det handler om å blande dem alle sømløst sammen.
 
 
 
-## Why it Matters
+## Tilpasningsdyktig kreativitet
 
-My belief is that versatility, adaptability, and friendliness can redefine the digital landscape.
+I et raskt utviklende digitalt landskap er tilpasningsevne nøkkelen. Min allsidighet handler ikke bare om ferdigheter; det handler om å ligge i forkant, omfavne nye utfordringer og levere nye løsninger.
 
 
 
-## Languages & Tools
+## Vennlige forbindelser
 
-- Norwegian
-- English
+Tilnærmelighet er kjernen i min stil. Det handler ikke bare om design og kode; det handler om å få brukerne til å føle seg velkomne. Den digitale plassen bør være like vennlig som en samtale ansikt til ansikt.
+
+
+
+## Hvorfor det betyr noe
+
+Jeg tror at allsidighet, tilpasningsevne og vennlighet kan omdefinere det digitale landskapet.
+
+
+
+## Språk og Verktøy
+
+- Norsk
+- Engelsk
 - HTML
 - CSS
 - Sass (Scss)
@@ -56,11 +56,15 @@ My belief is that versatility, adaptability, and friendliness can redefine the d
 - React.js
 - React Native
 - Next.js
+- Sanity
+- Aws Amplify
+- Firebase
 - Three.js
-- Multiple headless CMS
 - Github
 - Git
 - Figma
+- Wordpress
+- Elementor
 - Webflow
 - Ableton Live
 - Blender
@@ -71,8 +75,8 @@ My belief is that versatility, adaptability, and friendliness can redefine the d
 
 ## Let's Connect
 
-- Portfolio: [Click to view my Portfolio](https://kristian-kodehode.github.io/portfolio/)
-- Email:
+- Portefølje: [Click to view my Portfolio](https://kristian-kodehode.github.io/portfolio/)
+- E-post:
 <pre>
 <code>
 kristian007.kodehode@gmail.com
@@ -80,7 +84,7 @@ kristian007.kodehode@gmail.com
 </pre>
 
 
-If you have any questions, let's connect!
+Ser frem til å gøre fra deg!
 
 Happy coding! ✨
 
