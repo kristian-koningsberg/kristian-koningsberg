@@ -11,13 +11,13 @@ Kontakt - kristian007.kodehode@gmail.com
 # Hei, mitt navn er Kristian Køningsberg 👋
 
 
-**Jeg er en kreativ utvikler, designer og wiz som vever sammen piksler, lyder og kode. I min verden handler design ikke bare om estetikk; det er en reise som forener ulike opplevelser.**
+**Jeg er en kreativ utvikler, designer og wiz som vever sammen piksler, lyder og kode.**
 
 
 
 ## Allsidighet
 
-Fra frontend, 3D-opplevelser, UX og headless fullstack-utvikling til grafisk og UI/UX-design, navigerer jeg i flere kreative verdener. Det handler ikke om å velge én sti; det handler om å blande dem alle sømløst sammen.
+Fra frontend, 3D-opplevelser og headless fullstack-utvikling til grafisk, UI og UX-design, navigerer jeg i flere kreative verdener. Det handler ikke om å velge én sti; det handler om å blande dem alle sømløst sammen.
 
 
 
