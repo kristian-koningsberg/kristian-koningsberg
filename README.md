@@ -11,7 +11,7 @@ Kontakt - kristian007.kodehode@gmail.com
 # Hei, mitt navn er Kristian Køningsberg 👋
 
 
-**Jeg er en kreativ utvikler, designer og wiz som vever sammen piksler, lyder og kode.**
+**Jeg er en kreativ utvikler, designer og musikkprodusent som er lidenskapelig opptatt av piksler, lyder og kode.**
 
 
 
