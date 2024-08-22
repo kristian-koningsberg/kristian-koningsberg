@@ -84,7 +84,7 @@ kristian007.kodehode@gmail.com
 </pre>
 
 
-Ser frem til å gøre fra deg!
+Ser frem til å høre fra deg!
 
 Happy coding! ✨
 
