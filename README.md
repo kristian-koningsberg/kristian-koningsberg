@@ -1,6 +1,6 @@
 Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
 
-Midlertidig frivillig hos Kodeverket som frontend-utvikler og designer. Vi bygger apper og nettsider. 
+Midlertidig hos Kodeverket Bergen som frontend-utvikler og designer. 
 
 Vår nåværende techstack : Next.js | Sanity | React Native 
 
