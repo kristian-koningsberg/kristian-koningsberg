@@ -5,7 +5,7 @@ Midlertidig frivillig hos Kodeverket som frontend-utvikler og designer. Vi bygge
 Vår nåværende techstack : Next.js | Sanity | React Native 
 
 ### Latest News 📰
-Ser for tiden etter ny stilling som frontend-utvikler i Stavanger.
+Ser for tiden etter ny stilling som frontend-utvikler i Stavanger eller remote.
 Kontakt - kristian007.kodehode@gmail.com 
 
 # Hei, mitt navn er Kristian Køningsberg 👋
