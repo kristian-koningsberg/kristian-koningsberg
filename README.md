@@ -5,7 +5,7 @@ Midlertidig hos Kodeverket Bergen som frontend-utvikler og designer.
 Vår nåværende techstack : Next.js | Sanity | React Native 
 
 ### Latest News 📰
-Ser for tiden etter ny stilling som frontend-utvikler i Stavanger eller remote.
+Ser etter ny stilling som frontend-utvikler i Stavanger eller remote.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
