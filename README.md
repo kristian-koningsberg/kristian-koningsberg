@@ -1,11 +1,10 @@
-Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
+Designutvikler | Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
 
-Midlertidig hos Kodeverket Bergen som frontend-utvikler og designer. 
+Nåværende stilling: Product Expert og utvikler hos Konciv
 
-Vår nåværende techstack : Next.js | Sanity | React Native 
 
 ### Latest News 📰
-Ser etter ny stilling som frontend-utvikler i Stavanger eller remote.
+Ser etter stilling som frontend-utvikler i Stavanger eller remote.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
