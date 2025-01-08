@@ -2,10 +2,6 @@ Designutvikler | Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D 
 
 Nåværende stilling: Product Expert og utvikler hos Konciv
 
-
-### Latest News 📰
-Ser etter stilling som frontend-utvikler i Stavanger eller remote.
-
 Kontakt - kristian007.kodehode@gmail.com 
 
 # Hei, mitt navn er Kristian Køningsberg 👋
