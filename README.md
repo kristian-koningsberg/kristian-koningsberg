@@ -1,6 +1,6 @@
 Designutvikler | Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
 
-Nåværende stilling: Product Expert og utvikler hos Konciv
+Nåværende stilling: Webdesigner og UX designer hos Outfront.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
