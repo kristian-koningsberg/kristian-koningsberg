@@ -20,7 +20,7 @@ Kontakt - kristian007.kodehode@gmail.com
 - Typescript
 - Vite
 - React.js
-- React Native
+- React Native - Expo
 - Next.js
 - Sanity
 - Aws Amplify
@@ -34,8 +34,6 @@ Kontakt - kristian007.kodehode@gmail.com
 - Webflow
 - Ableton Live
 - Blender
-- Chat GPT
-- Copilot (GH)
 
 
 
