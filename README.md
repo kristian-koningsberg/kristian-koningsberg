@@ -7,31 +7,7 @@ Kontakt - kristian007.kodehode@gmail.com
 # Hei, mitt navn er Kristian Køningsberg 👋
 
 
-**Jeg er en kreativ utvikler, designer og musikkprodusent som er lidenskapelig opptatt av piksler, lyder og kode.**
-
-
-
-## Allsidighet
-
-Fra frontend, 3D-opplevelser og headless fullstack-utvikling til grafisk, UI og UX-design, navigerer jeg i flere kreative verdener. Det handler ikke om å velge én sti; det handler om å blande dem alle sømløst sammen.
-
-
-
-## Tilpasningsdyktig kreativitet
-
-I et raskt utviklende digitalt landskap er tilpasningsevne nøkkelen. Min allsidighet handler ikke bare om ferdigheter; det handler om å ligge i forkant, omfavne nye utfordringer og levere nye løsninger.
-
-
-
-## Vennlige forbindelser
-
-Tilnærmelighet er kjernen i min stil. Det handler ikke bare om design og kode; det handler om å få brukerne til å føle seg velkomne. Den digitale plassen bør være like vennlig som en samtale ansikt til ansikt.
-
-
-
-## Hvorfor det betyr noe
-
-Jeg tror at allsidighet, tilpasningsevne og vennlighet kan omdefinere det digitale landskapet.
+**Jeg er designutvikler fra og i Stavanger som for tiden jobber som lead designer i et lite agency her i byen. **
 
 
 
