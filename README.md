@@ -4,12 +4,7 @@ Nåværende stilling: Lead designer hos Outfront.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
-# Hei, mitt navn er Kristian Køningsberg 👋
-
-Jeg er designutvikler fra og i Stavanger som for tiden jobber som lead designer i et lite agency her i byen.
-
-
-
+#
 ## Språk og Verktøy
 
 - Norsk
