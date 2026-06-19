@@ -1,6 +1,6 @@
-Designutvikler | Frontend Utvikler | Kreativ Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
+Designutvikler | Frontend Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
 
-Nåværende stilling: UX Engineer hos Outfront.
+Nåværende stilling: Lead designer hos Outfront.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
