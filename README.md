@@ -1,6 +1,7 @@
 UX Designengineer
 
 Nåværende stilling: Lead designer hos Outfront.
+Jeg ser etter nye muligheter som ux designengineer / desginutvikler / produktdesigner.
 
 Kontakt - kristian007.kodehode@gmail.com 
 
