@@ -1,4 +1,4 @@
-Designutvikler | Frontend Utvikler | UX | UI | Designer | 3D | Musikkproduksjon | Sounddesign
+UX Designengineer
 
 Nåværende stilling: Lead designer hos Outfront.
 
